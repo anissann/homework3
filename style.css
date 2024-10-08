@@ -3,7 +3,7 @@
 }
 
 .header {
-    background-image: url(file:///C:/Users/Acer/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/site.html/homework%203/coffeeimg.jpg);
+    background-image: url(https://www.readyseteat.com/sites/g/files/qyyrlu501/files/images/article/hero/BARISTA-STYLE-COFFEE-HERO.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -36,6 +36,7 @@ margin-top: 30px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     text-align: center;
+    color: #9db265;
 }
 
 .whitebg {
@@ -165,6 +166,7 @@ margin-top: 30px;
 
 
 ul li h2 { 
+    color: rgb(214, 168, 106);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
